@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+
+# Środowisko wirtualne
+venv/
+.env
+
+# Pliki Django
+media/
+staticfiles/
+db.sqlite3
+
+# Dodatkowe pliki konfiguracyjne
+local_settings.py
+#cookies_fake.pkl
+#cookies_main.pkl
